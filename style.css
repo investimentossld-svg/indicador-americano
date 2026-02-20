@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #00AEEF;
+  --primary-color: #00ff9c;
   --bg: #0b0b0b;
   --text: #eaeaea;
 }
@@ -259,4 +259,11 @@ body { font-family:'Poppins', sans-serif; background:var(--bg); color:var(--text
 /* 5. (Opcional) Ajuste para o footer não ficar colado */
 .bio-footer {
   margin-top: 30px;
+}
+
+
+
+
+.hero h1{
+  color:#00ff9c;
 }
