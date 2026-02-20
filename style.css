@@ -265,5 +265,7 @@ body { font-family:'Poppins', sans-serif; background:var(--bg); color:var(--text
 
 
 .hero h1{
-  color:#00ff9c;
+  background: linear-gradient(90deg,#FFD700,#FFF3A0,#FFC107,#FFD700);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
 }
